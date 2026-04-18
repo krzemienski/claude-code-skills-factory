@@ -1,5 +1,19 @@
 # Claude Code Skills & Agents Factory
 
+[![Featured in Agentic Development Blog — Post #3](https://img.shields.io/badge/Agentic%20Development%20Blog-Post%20%233-blue)](https://github.com/krzemienski/agentic-development-guide)
+
+## Related Post
+
+**Featured in the Agentic Development Blog series — Post #3: I Banned Unit Tests From My AI Workflow**
+
+- Send date: Thu May 21, 2026
+- LinkedIn: _link added on send day_
+- Canonical blog post: https://ai.hack.ski/blog/<slug-set-on-send-day>
+- Series hub: [agentic-development-guide](https://github.com/krzemienski/agentic-development-guide)
+
+---
+
+
 A comprehensive toolkit for generating production-ready Claude Skills and Claude Code Agents at scale. This repository provides templates, examples, and powerful prompt engineering systems to create custom skills and specialized agents for Claude AI across all platforms.
 
 ## 🚀 Quick Start (3 Shortcuts)
