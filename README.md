@@ -1,5 +1,13 @@
 # Claude Code Skills & Agents Factory
 
+> Production-ready toolkit for generating Claude Skills + Claude Code Agents at scale — templates, examples, and prompt-engineering systems.
+
+Live site: [withagents.dev/posts/post-03-functional-validation](https://withagents.dev/posts/post-03-functional-validation)
+Field journal entry: [withagents.dev/posts/post-03-functional-validation](https://withagents.dev/posts/post-03-functional-validation)
+
+---
+
+
 [![Featured in Agentic Development Blog — Post #3](https://img.shields.io/badge/Agentic%20Development%20Blog-Post%20%233-blue)](https://github.com/krzemienski/agentic-development-guide)
 
 ## Related Post
